@@ -8,3 +8,4 @@ Tzuyu,Chou,09280495821,Seoul,streammebytuzyu@gmial.com,pfizer,31/08/2024
 Tzuyu,Chou,09280495821,Seoul,streammebytuzyu@gmial.com,pfizer,31/01/2025
 Paula Eunice,Dilag,09281049381,Alfonso,paulaeunicedilag@gmail.com,Moderna,04/12/2027
 Paula Eunice,Dilag,09281049381,Alfonso,paulaeunicedilag@gmail.com,Moderna,13/10/2029
+04/07/2022
